@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.cabrillo.tracker.TFrame">
+    <property name="tabs" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/ecobu/Documents/Manuel Trabajos/UNI/5To semestre/Exp Agua/2da altura/1b.trk</property>
+            <property name="[1]" type="string">1b.trk</property>
+        </property>
+        <property name="[1]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/ecobu/Documents/Manuel Trabajos/UNI/5To semestre/Exp Agua/2da altura/2b.trk</property>
+            <property name="[1]" type="string">2b.trk</property>
+        </property>
+        <property name="[2]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/ecobu/Documents/Manuel Trabajos/UNI/5To semestre/Exp Agua/2da altura/3b.trk</property>
+            <property name="[1]" type="string">3b.trk</property>
+        </property>
+    </property>
+</object>
